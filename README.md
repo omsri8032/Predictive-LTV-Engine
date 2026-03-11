@@ -71,7 +71,13 @@ source venv/bin/activate
 streamlit run src/app.py
 ```
 
-![Streamlit AI Forecaster Dashboard](/Users/omsmac/.gemini/antigravity/brain/0af4f1d5-46e5-4be0-ada3-63d37eee675d/media__1773265226649.png)
+### 🖼️ Project Screenshots (Output Gallery)
+
+![Dashboard Layout](output/Dashboard.png)
+![Analytics View 1](output/Analytics_1.png)
+![Analytics View 2](output/Analytics_2.png)
+![Analytics View 3](output/Analytics_3.png)
+![Analytics View 4](output/Analytics_4.png)
 
 ## 📊 Business Intelligence (Tableau)
 
